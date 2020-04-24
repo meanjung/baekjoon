@@ -1,3 +1,3 @@
 # baekjoon
 baekjoon  https://www.acmicpc.net/
-branch: baekjoon
+go branch: baekjoon
